@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite hostname="DS-PG020YBA" name="samples.Annotation1" tests="4" failures="0" timestamp="21 Apr 2022 06:11:54 GMT" time="66.756" errors="0">
+  <testcase name="login" time="16.748" classname="samples.Annotation1"/>
+  <testcase name="f" time="16.995" classname="samples.NewTest3"/>
+  <testcase name="registration" time="35.184" classname="samples.Annotation1"/>
+  <testcase name="add1" time="33.001" classname="samples.CalculatorTest1"/>
+</testsuite>
